@@ -5,7 +5,7 @@ In this Bagging algorithm, I am using decision stump as a weak learner.
 
 ## Files and Data Descriptions
 
-#### 1. decision_tree.py  
+#### 1. decision_tree_bagging.py  
 This is main python file.To run this project, one just have to run this files. All the function calls to different files will be made from this main python file.
 
 #### 2. dataset_details.py  
