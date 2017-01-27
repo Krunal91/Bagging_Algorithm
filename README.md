@@ -1,5 +1,7 @@
 # Bagging Machine Learning Algorithm in Python
-In this Bagging algorithm, I am using decision stump as a weak learner.
+In this Bagging algorithm, I am using decision stump as a weak learner.  
+
+**Decision Stump :** It means decision tree which has depth of 1.
 
 ## Files and Data Descriptions
 
