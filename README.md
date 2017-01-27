@@ -6,7 +6,7 @@ In this Bagging algorithm, I am using decision stump as a weak learner.
 #### Script requirement  
 Scirpt should have read, write and delete permission
 
-###### Script running instruction
+#### Script running instruction
 Run main.py script in command line as below
 
 python main.py <ensemple_type> <treeDeoth> <bags> <data folder path>
