@@ -28,9 +28,9 @@ This file does the necessary changes so that data other functions runs smoothly.
 Scirpt should have read, write and delete permission
 
 #### Script running instruction
-Run /* main.py */ script in command line as below
+Run ** main.py ** script in command line as below
 
-python main.py <ensemple_type> <treeDeoth> <bags> <data folder path>
+python ** main.py ** <ensemple_type> <treeDeoth> <bags> <data folder path>
 
 example: python main.py bag 5 10 "C:/Users/data/"
 
